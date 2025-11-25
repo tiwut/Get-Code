@@ -1,0 +1,16 @@
+<aside class="sidebar-menu">
+    <button class="menu-toggle" aria-expanded="true" aria-controls="menu-list">Toggle Menu</button>
+    <ul class="menu-list" id="menu-list">
+        <li><a href="#dashboard">Dashboard</a></li>
+        <li>
+            <details class="submenu-details">
+                <summary>Products</summary>
+                <ul>
+                    <li><a href="#product-a">Product A</a></li>
+                    <li><a href="#product-b">Product B</a></li>
+                </ul>
+            </details>
+        </li>
+        <li><a href="#settings">Settings</a></li>
+    </ul>
+</aside>

@@ -1,0 +1,8 @@
+<div class="image-card">
+    <img src="card-image.jpg" alt="Description of the item" class="card-img">
+    <div class="card-body">
+        <h3 class="card-title">Card Title</h3>
+        <p class="card-text">A short description of the content or feature provided by this card.</p>
+        <a href="#" class="card-link">Read More</a>
+    </div>
+</div>

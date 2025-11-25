@@ -1,0 +1,11 @@
+<div class="form-group validation-error">
+    <label for="usernameField">Username</label>
+    <input type="text" id="usernameField" value="user123">
+    <small class="validation-feedback error-msg">Username is already taken.</small>
+</div>
+
+<div class="form-group validation-success">
+    <label for="emailField">Email</label>
+    <input type="email" id="emailField" value="valid@email.com">
+    <small class="validation-feedback success-msg">Looks good!</small>
+</div>

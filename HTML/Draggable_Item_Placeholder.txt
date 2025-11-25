@@ -1,0 +1,11 @@
+<ul class="draggable-list" id="sortableList">
+    <li class="draggable-item" draggable="true" data-id="1">
+        <span class="drag-handle">☰</span> Task 1: Complete styling
+    </li>
+    <li class="draggable-item" draggable="true" data-id="2">
+        <span class="drag-handle">☰</span> Task 2: Review JS
+    </li>
+    <li class="draggable-item" draggable="true" data-id="3">
+        <span class="drag-handle">☰</span> Task 3: Final deployment
+    </li>
+</ul>

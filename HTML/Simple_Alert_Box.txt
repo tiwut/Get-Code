@@ -1,0 +1,7 @@
+<div class="alert-box alert-success" role="alert">
+    <strong>Success!</strong> Your settings have been updated.
+</div>
+
+<div class="alert-box alert-warning" role="alert">
+    <strong>Warning!</strong> Please review the changes before continuing.
+</div>

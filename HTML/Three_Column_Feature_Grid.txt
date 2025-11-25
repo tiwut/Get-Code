@@ -1,0 +1,17 @@
+<section class="feature-grid">
+    <div class="feature-item">
+        <i class="icon-fast"></i>
+        <h3>Lightning Fast</h3>
+        <p>Optimized for speed and minimal load times.</p>
+    </div>
+    <div class="feature-item">
+        <i class="icon-responsive"></i>
+        <h3>Fully Responsive</h3>
+        <p>Works perfectly on all devices, from mobile to desktop.</p>
+    </div>
+    <div class="feature-item">
+        <i class="icon-easy"></i>
+        <h3>Easy to Integrate</h3>
+        <p>Simple copy-and-paste integration into any project.</p>
+    </div>
+</section>

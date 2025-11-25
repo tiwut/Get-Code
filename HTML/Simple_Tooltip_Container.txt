@@ -1,0 +1,9 @@
+<div class="tooltip-container">
+    <span class="tooltip-trigger">Hover Me</span>
+    <span class="tooltip-text" role="tooltip">This is a helpful hint!</span>
+</div>
+
+<button class="tooltip-container">
+    <span class="tooltip-trigger-btn">Info</span>
+    <span class="tooltip-text" role="tooltip">Click to see more information.</span>
+</button>

@@ -1,0 +1,5 @@
+<div class="dropzone-area" id="fileDropzone" ondragover="event.preventDefault();" ondrop="handleDrop(event)">
+    <p>Drag your files here or <span class="browse-link">click to upload</span></p>
+    <input type="file" id="dropzoneInput" multiple style="display: none;">
+    <p class="dropzone-hint">Max file size: 5MB</p>
+</div>

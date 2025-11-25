@@ -1,0 +1,8 @@
+<div class="skeleton-card">
+    <div class="skeleton-image"></div>
+    <div class="skeleton-text-group">
+        <div class="skeleton-text short"></div>
+        <div class="skeleton-text long"></div>
+        <div class="skeleton-text medium"></div>
+    </div>
+</div>

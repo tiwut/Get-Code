@@ -1,0 +1,9 @@
+<div class="media-object">
+    <div class="media-img">
+        <img src="small-avatar.jpg" alt="User Avatar">
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading">User Name</h4>
+        <p class="media-text">This is the main content next to the image, often used for comments or user lists.</p>
+    </div>
+</div>

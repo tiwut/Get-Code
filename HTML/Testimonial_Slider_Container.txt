@@ -1,0 +1,16 @@
+<section class="testimonial-slider-container">
+    <div class="slider-track">
+        <blockquote class="testimonial-slide">
+            <p>"This platform saved me hours of development time. Highly recommend!"</p>
+            <footer>— Jane Doe, Web Developer</footer>
+        </blockquote>
+        <blockquote class="testimonial-slide">
+            <p>"Clean code and great documentation. A must-have resource."</p>
+            <footer>— John Smith, Designer</footer>
+        </blockquote>
+        </div>
+    <div class="slider-controls">
+        <button class="prev-button">❮</button>
+        <button class="next-button">❯</button>
+    </div>
+</section>

@@ -1,0 +1,3 @@
+<div class="iframe-responsive-wrapper" style="padding-bottom: 56.25%;">
+    <iframe src="https://example.com" frameborder="0" allowfullscreen></iframe>
+</div>

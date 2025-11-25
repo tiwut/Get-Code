@@ -1,0 +1,15 @@
+<div class="article-layout">
+    <article class="main-content">
+        <h1>The Title of the Article</h1>
+        <p class="article-meta">Published on <time datetime="2025-10-08">October 8, 2025</time></p>
+        <p>This is the main body of the article...</p>
+        </article>
+    <aside class="sidebar">
+        <h3>Related Topics</h3>
+        <ul>
+            <li><a href="#">Topic A</a></li>
+            <li><a href="#">Topic B</a></li>
+            <li><a href="#">Topic C</a></li>
+        </ul>
+    </aside>
+</div>

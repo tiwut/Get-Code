@@ -1,0 +1,8 @@
+<div class="file-upload-container">
+    <label for="fileUpload" class="file-upload-label">
+        <svg viewBox="0 0 24 24" class="upload-icon"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
+        <span>Drag and drop your file here or click to browse</span>
+    </label>
+    <input type="file" id="fileUpload" name="uploadedFile" accept=".pdf,.doc,.jpg" multiple>
+    <p class="file-status">No file selected.</p>
+</div>

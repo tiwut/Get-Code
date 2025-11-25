@@ -1,0 +1,5 @@
+<nav class="link-hover-nav">
+    <a href="#" class="hover-link link-underline">Underline Effect</a>
+    <a href="#" class="hover-link link-glow">Glow Effect</a>
+    <a href="#" class="hover-link link-swipe">Swipe Effect</a>
+</nav>

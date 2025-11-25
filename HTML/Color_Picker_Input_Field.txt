@@ -1,0 +1,5 @@
+<div class="color-picker-group">
+    <label for="mainColor">Select Primary Color:</label>
+    <input type="color" id="mainColor" name="mainColor" value="#6200ea">
+    <span class="hex-display">#6200ea</span>
+</div>

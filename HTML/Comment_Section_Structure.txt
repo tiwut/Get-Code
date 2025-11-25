@@ -1,0 +1,17 @@
+<section class="comment-section">
+    <h3>3 Comments</h3>
+    <div class="comment-form">
+        <h4>Leave a Comment</h4>
+        <textarea placeholder="Write your comment here..." rows="4"></textarea>
+        <button class="submit-comment">Post Comment</button>
+    </div>
+    <ul class="comment-list">
+        <li class="comment-item">
+            <div class="comment-header">
+                <span class="comment-author">User A</span>
+                <span class="comment-date">2 hours ago</span>
+            </div>
+            <p class="comment-body">Great article! Very helpful.</p>
+        </li>
+        </ul>
+</section>

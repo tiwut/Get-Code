@@ -1,0 +1,7 @@
+<div class="share-button-group">
+    <span class="share-label">Share This:</span>
+    <a href="#" class="share-btn twitter" aria-label="Share on Twitter">T</a>
+    <a href="#" class="share-btn facebook" aria-label="Share on Facebook">F</a>
+    <a href="#" class="share-btn linkedin" aria-label="Share on LinkedIn">L</a>
+    <a href="#" class="share-btn copy-link" aria-label="Copy Link">🔗</a>
+</div>

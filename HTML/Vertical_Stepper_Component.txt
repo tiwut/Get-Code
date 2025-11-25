@@ -1,0 +1,22 @@
+<div class="vertical-stepper">
+    <div class="step completed">
+        <div class="step-circle">1</div>
+        <div class="step-content">
+            <h4>Step 1: Account Setup</h4>
+            <p>Completed on 10/01/2025</p>
+        </div>
+    </div>
+    <div class="step active">
+        <div class="step-circle">2</div>
+        <div class="step-content">
+            <h4>Step 2: Profile Details</h4>
+            <p>Currently in progress.</p>
+        </div>
+    </div>
+    <div class="step">
+        <div class="step-circle">3</div>
+        <div class="step-content">
+            <h4>Step 3: Final Confirmation</h4>
+        </div>
+    </div>
+</div>

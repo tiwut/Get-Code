@@ -1,0 +1,12 @@
+<div class="pricing-table">
+    <div class="pricing-plan">
+        <h2>Basic</h2>
+        <p class="price">$10/mo</p>
+        <ul class="features-list">
+            <li>5 Snippets Included</li>
+            <li>Basic Support</li>
+            <li class="disabled">Priority Access</li>
+        </ul>
+        <button class="select-plan">Choose Basic</button>
+    </div>
+    </div>

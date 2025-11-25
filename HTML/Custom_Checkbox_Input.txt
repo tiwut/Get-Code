@@ -1,0 +1,11 @@
+<label class="custom-checkbox-container">
+    <input type="checkbox" checked="checked">
+    <span class="checkmark"></span>
+    Remember Me
+</label>
+
+<label class="custom-checkbox-container">
+    <input type="checkbox">
+    <span class="checkmark"></span>
+    Accept Terms
+</label>

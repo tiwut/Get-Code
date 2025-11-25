@@ -1,0 +1,13 @@
+<table class="data-table">
+    <thead>
+        <tr>
+            <th data-sortable="true" data-key="name">Name <span class="sort-icon">▲</span></th>
+            <th data-sortable="true" data-key="age">Age <span class="sort-icon">▼</span></th>
+            <th data-sortable="false">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Alice</td><td>30</td><td>Active</td></tr>
+        <tr><td>Bob</td><td>22</td><td>Inactive</td></tr>
+        </tbody>
+</table>

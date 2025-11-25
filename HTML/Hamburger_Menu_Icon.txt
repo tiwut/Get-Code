@@ -1,0 +1,5 @@
+<button class="hamburger-menu" aria-label="Toggle Navigation" aria-expanded="false">
+    <span class="line"></span>
+    <span class="line"></span>
+    <span class="line"></span>
+</button>

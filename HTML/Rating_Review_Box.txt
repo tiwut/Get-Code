@@ -1,0 +1,10 @@
+<div class="rating-review-box">
+    <div class="overall-rating">
+        <span class="rating-value">4.5</span> / 5
+        <div class="star-display">★★★★☆</div>
+        <p class="review-count">Based on 150 reviews</p>
+    </div>
+    <div class="rating-breakdown">
+        </div>
+    <button class="write-review-btn">Write a Review</button>
+</div>

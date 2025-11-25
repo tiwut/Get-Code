@@ -1,0 +1,9 @@
+<header class="site-header sticky-top">
+    <div class="header-content">
+        <a href="/" class="logo">My App</a>
+        <nav class="main-nav">
+            <a href="#features">Features</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </div>
+</header>

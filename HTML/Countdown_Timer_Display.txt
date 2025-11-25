@@ -1,0 +1,18 @@
+<div class="countdown-timer" data-target-date="2026-01-01T00:00:00">
+    <div class="time-block">
+        <span class="time-value" id="days">00</span>
+        <span class="time-label">Days</span>
+    </div>
+    <div class="time-block">
+        <span class="time-value" id="hours">00</span>
+        <span class="time-label">Hours</span>
+    </div>
+    <div class="time-block">
+        <span class="time-value" id="minutes">00</span>
+        <span class="time-label">Minutes</span>
+    </div>
+    <div class="time-block">
+        <span class="time-value" id="seconds">00</span>
+        <span class="time-label">Seconds</span>
+    </div>
+</div>

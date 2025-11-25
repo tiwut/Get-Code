@@ -1,0 +1,9 @@
+<div class="pagination-controls" aria-label="Pagination">
+    <a href="#" class="page-link prev-page disabled">Previous</a>
+    <ul class="page-numbers">
+        <li><a href="#" class="page-link active">1</a></li>
+        <li><a href="#" class="page-link">2</a></li>
+        <li><a href="#" class="page-link">3</a></li>
+    </ul>
+    <a href="#" class="page-link next-page">Next</a>
+</div>

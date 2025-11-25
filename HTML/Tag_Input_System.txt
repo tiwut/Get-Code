@@ -1,0 +1,8 @@
+<div class="tag-input-container">
+    <div class="tag-list">
+        <span class="tag-item" data-value="HTML">HTML <button class="tag-remove">&times;</button></span>
+        <span class="tag-item" data-value="CSS">CSS <button class="tag-remove">&times;</button></span>
+    </div>
+    <input type="text" class="tag-input" placeholder="Add a new tag...">
+    <input type="hidden" name="tags" id="hiddenTagsInput" value="HTML,CSS">
+</div>

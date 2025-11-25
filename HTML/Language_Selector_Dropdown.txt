@@ -1,0 +1,9 @@
+<div class="language-selector">
+    <label for="languageSelect" class="sr-only">Select Language</label>
+    <select id="languageSelect" class="lang-dropdown" onchange="changeLanguage(this.value)">
+        <option value="en" selected>English</option>
+        <option value="de">Deutsch</option>
+        <option value="es">Español</option>
+    </select>
+    <span class="flag-icon">🇬🇧</span>
+</div>

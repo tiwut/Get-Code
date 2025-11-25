@@ -1,0 +1,6 @@
+<div class="filter-tags">
+    <span class="filter-tag active" data-filter="all">All (12)</span>
+    <span class="filter-tag" data-filter="html">HTML (5)</span>
+    <span class="filter-tag" data-filter="css">CSS (4)</span>
+    <span class="filter-tag" data-filter="js">JavaScript (3)</span>
+</div>

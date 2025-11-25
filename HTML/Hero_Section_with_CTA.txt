@@ -1,0 +1,10 @@
+<section class="hero-section">
+    <div class="hero-content">
+        <h1>Powerful Solutions for Modern Web Development</h1>
+        <p>Get started today with our curated selection of clean, ready-to-use code snippets.</p>
+        <a href="#get-started" class="primary-cta">Start Building Now</a>
+    </div>
+    <div class="hero-image">
+        <img src="placeholder.jpg" alt="Illustration">
+    </div>
+</section>

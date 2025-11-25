@@ -1,0 +1,12 @@
+<div class="map-placeholder" aria-label="Location Map">
+    <p>Loading map...</p>
+    <iframe 
+        src="MAP_EMBED_URL" 
+        width="100%" 
+        height="450" 
+        frameborder="0" 
+        allowfullscreen="" 
+        aria-hidden="false" 
+        tabindex="0">
+    </iframe>
+</div>

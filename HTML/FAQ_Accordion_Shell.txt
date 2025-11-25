@@ -1,0 +1,20 @@
+<div class="faq-accordion">
+    <div class="accordion-item">
+        <button class="accordion-header">
+            What is this platform for?
+            <span class="accordion-icon">+</span>
+        </button>
+        <div class="accordion-content">
+            <p>It is a vault for pure HTML, CSS, and JS code snippets for rapid development.</p>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <button class="accordion-header">
+            Is the code free to use?
+            <span class="accordion-icon">+</span>
+        </button>
+        <div class="accordion-content">
+            <p>Yes, all snippets are provided under an MIT license.</p>
+        </div>
+    </div>
+</div>

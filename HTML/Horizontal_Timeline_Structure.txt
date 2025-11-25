@@ -1,0 +1,12 @@
+<div class="horizontal-timeline">
+    <div class="timeline-event" data-year="2018">
+        <div class="event-icon">1</div>
+        <h4 class="event-title">Founded Company</h4>
+        <p class="event-description">Began development on the first product idea.</p>
+    </div>
+    <div class="timeline-event" data-year="2020">
+        <div class="event-icon">2</div>
+        <h4 class="event-title">Series A Funding</h4>
+        <p class="event-description">Secured major investment for growth.</p>
+    </div>
+    </div>

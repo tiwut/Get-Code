@@ -1,0 +1,5 @@
+<div class="range-slider-group">
+    <label for="priceRange">Max Price:</label>
+    <input type="range" id="priceRange" min="0" max="1000" value="500" step="10">
+    <output for="priceRange" class="range-output">$500</output>
+</div>

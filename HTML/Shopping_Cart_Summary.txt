@@ -1,0 +1,10 @@
+<div class="cart-summary">
+    <h2>Order Summary</h2>
+    <ul class="summary-list">
+        <li><span>Subtotal:</span> <span class="amount">$250.00</span></li>
+        <li><span>Shipping:</span> <span class="amount">$15.00</span></li>
+        <li class="summary-total"><span>Total:</span> <span class="amount">$265.00</span></li>
+    </ul>
+    <button class="checkout-button">Proceed to Checkout</button>
+    <a href="#continue-shopping" class="continue-link">Continue Shopping</a>
+</div>

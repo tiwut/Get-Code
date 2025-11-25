@@ -1,0 +1,7 @@
+<div class="cookie-banner" id="cookieConsentBanner" role="dialog" aria-live="polite" aria-label="Cookie Consent">
+    <p>We use cookies to ensure you get the best experience on our website. <a href="/privacy" class="policy-link">Learn more</a></p>
+    <div class="cookie-actions">
+        <button class="cookie-accept-btn" onclick="acceptCookies()">Accept All</button>
+        <button class="cookie-manage-btn" onclick="manageCookies()">Manage Preferences</button>
+    </div>
+</div>

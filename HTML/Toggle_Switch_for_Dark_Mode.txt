@@ -1,0 +1,5 @@
+<label class="toggle-switch-label" for="darkModeToggle">
+    <input type="checkbox" id="darkModeToggle" checked>
+    <span class="slider round"></span>
+    <span class="label-text">Dark Mode</span>
+</label>

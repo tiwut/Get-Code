@@ -1,0 +1,10 @@
+<pre class="line-numbers">
+    <code class="language-javascript">
+function greeting(name) {
+    // This is line 2
+    console.log("Hello, " + name + "!");
+}
+
+greeting("World");
+    </code>
+</pre>

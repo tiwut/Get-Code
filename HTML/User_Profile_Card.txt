@@ -1,0 +1,10 @@
+<div class="profile-card">
+    <img src="avatar.jpg" alt="User Avatar" class="profile-avatar">
+    <h2 class="profile-name">Alex Johnson</h2>
+    <p class="profile-title">Software Engineer</p>
+    <div class="profile-stats">
+        <span><strong class="stat-value">120</strong> Projects</span>
+        <span><strong class="stat-value">5k</strong> Followers</span>
+    </div>
+    <button class="profile-action-btn">View Profile</button>
+</div>

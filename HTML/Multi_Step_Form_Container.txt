@@ -1,0 +1,20 @@
+<form id="multiStepForm" class="multi-step-form">
+    <div class="form-steps-nav">
+        <div class="step-indicator active">1. Basic Info</div>
+        <div class="step-indicator">2. Details</div>
+        <div class="step-indicator">3. Review</div>
+    </div>
+
+    <div class="form-step current" id="step1">
+        <h3>Step 1</h3>
+        <input type="text" placeholder="First Name">
+        <button type="button" class="next-step-btn">Next</button>
+    </div>
+
+    <div class="form-step" id="step2">
+        <h3>Step 2</h3>
+        <input type="text" placeholder="Address">
+        <button type="button" class="prev-step-btn">Back</button>
+        <button type="button" class="next-step-btn">Next</button>
+    </div>
+    </form>

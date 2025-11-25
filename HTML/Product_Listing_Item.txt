@@ -1,0 +1,9 @@
+<div class="product-listing-item" data-product-id="P456">
+    <img src="product-image.jpg" alt="Product Name" class="product-thumb">
+    <h3 class="product-name">Premium Coffee Maker</h3>
+    <p class="product-price">$99.99</p>
+    <div class="product-actions">
+        <button class="add-to-cart">Add to Cart</button>
+        <button class="view-details" aria-label="View Details">...</button>
+    </div>
+</div>

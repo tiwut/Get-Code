@@ -1,0 +1,7 @@
+<div class="toast-notification success-message" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-icon">✓</div>
+    <div class="toast-body">
+        <strong>Success!</strong> Your data has been saved successfully.
+    </div>
+    <button type="button" class="close-toast" aria-label="Close">×</button>
+</div>

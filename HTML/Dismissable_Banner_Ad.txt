@@ -1,0 +1,4 @@
+<div class="banner-ad" id="promoBanner" role="banner">
+    <p>🔥 Special Offer: Get 20% off your first subscription!</p>
+    <button class="dismiss-button" onclick="document.getElementById('promoBanner').style.display='none';" aria-label="Dismiss banner">×</button>
+</div>

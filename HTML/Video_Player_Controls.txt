@@ -1,0 +1,10 @@
+<div class="custom-video-player">
+    <video id="myVideo" src="my-video.mp4" poster="poster.jpg"></video>
+    <div class="video-controls">
+        <button class="play-pause-btn" aria-label="Play/Pause">▶</button>
+        <input type="range" class="progress-bar" min="0" max="100" value="0">
+        <span class="time-display">0:00 / 0:00</span>
+        <input type="range" class="volume-slider" min="0" max="1" step="0.1" value="1" aria-label="Volume">
+        <button class="fullscreen-btn" aria-label="Fullscreen">⛶</button>
+    </div>
+</div>

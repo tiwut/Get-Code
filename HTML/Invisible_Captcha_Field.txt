@@ -1,0 +1,13 @@
+<form id="secureForm" action="/submit">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name">
+    </div>
+
+    <div class="invisible-captcha">
+        <label for="bot-field">Do Not Fill This Field:</label>
+        <input type="text" id="bot-field" name="bot-field">
+    </div>
+
+    <button type="submit">Submit Form</button>
+</form>

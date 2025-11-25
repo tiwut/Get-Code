@@ -1,0 +1,13 @@
+<div class="search-results-container">
+    <p class="result-count">Found <strong>14</strong> results for "HTML"</p>
+    <ul class="results-list">
+        <li class="result-item">
+            <a href="#" class="result-title">Basic HTML Structure Guide</a>
+            <p class="result-snippet">A quick overview of the essential tags and structure...</p>
+        </li>
+        <li class="result-item">
+            <a href="#" class="result-title">Using Semantic HTML5</a>
+            <p class="result-snippet">Improve accessibility with modern semantic elements...</p>
+        </li>
+    </ul>
+</div>
