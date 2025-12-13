@@ -1,0 +1,3 @@
+keys = ["name", "age"]
+values = ["Alice", 25]
+print(dict(zip(keys, values)))

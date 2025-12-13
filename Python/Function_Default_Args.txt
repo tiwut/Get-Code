@@ -1,0 +1,2 @@
+def greet(name="User"):
+    print(f"Hi, {name}")

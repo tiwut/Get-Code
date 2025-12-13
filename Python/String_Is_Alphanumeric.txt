@@ -1,0 +1,2 @@
+s = "alnum123"
+print(s.isalnum())

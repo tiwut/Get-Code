@@ -1,0 +1,5 @@
+import threading
+def worker():
+    print("Working")
+t = threading.Thread(target=worker)
+t.start()

@@ -1,0 +1,3 @@
+dict_one = {"a": 1}
+dict_two = {"b": 2}
+dict_one.update(dict_two)
